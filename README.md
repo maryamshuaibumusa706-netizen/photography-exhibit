@@ -2,8 +2,7 @@
 
 A responsive photography gallery with category filtering.
 
-**Live Demo:** https://maryamshuaibumusa706-netizen.github.io/photography-exhibit/
-
+**Live Demo:** https://maryamshuaibumusa706-netizen.github.io/-photography-exhibit/
 ### Features
 - Responsive grid gallery
 - Filter by City / Nature / People
